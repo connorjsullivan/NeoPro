@@ -4,6 +4,10 @@
 
 // NTD:
     // 1. Let Prices reference another file / live database
+    // Add a Config File
+        // Rarities
+        // Customization Options
+        // Minimum Profits to appear
     // 2. List Shops where prices are supported (and other information on rarities)
     // 3. Handle scenario of INFLATION ADJUSTED ITEMS
     // 4. Add optional chaining (`?.`) for `Prices.find` in `matchDetailsFromPrices`
@@ -117,54 +121,143 @@
     
     
         function displayProcessedItems(items) {
+            // Check if overlay already exists
             let overlay = document.getElementById('neoProOverlay');
             if (!overlay) {
+                // Create the overlay container
                 overlay = document.createElement('div');
                 overlay.id = 'neoProOverlay';
                 overlay.style.position = 'fixed';
                 overlay.style.top = '50px';
-                overlay.style.right = '10px';
-                overlay.style.backgroundColor = '#fff';
-                overlay.style.border = '1px solid #000';
-                overlay.style.padding = '10px';
-                overlay.style.width = '300px';
-                overlay.style.height = 'auto';
+                overlay.style.right = '20px';
+                overlay.style.width = '400px';
+                overlay.style.maxHeight = '80%';
+                overlay.style.backgroundColor = '#ffffff';
+                overlay.style.border = '1px solid #ddd';
+                overlay.style.borderRadius = '12px';
+                overlay.style.boxShadow = '0px 4px 8px rgba(0, 0, 0, 0.2)';
+                overlay.style.overflowY = 'auto';
+                overlay.style.padding = '20px';
                 overlay.style.zIndex = '1600';
-                overlay.style.overflowY = 'scroll';
-                overlay.style.maxHeight = '90%';
+                overlay.style.fontFamily = 'Arial, sans-serif';
+                overlay.style.transition = 'opacity 0.3s ease-in-out';
+        
+                // Add a close button
+                const closeButton = document.createElement('button');
+                closeButton.textContent = '×';
+                closeButton.style.position = 'absolute';
+                closeButton.style.top = '10px';
+                closeButton.style.right = '10px';
+                closeButton.style.border = 'none';
+                closeButton.style.background = 'transparent';
+                closeButton.style.fontSize = '24px';
+                closeButton.style.cursor = 'pointer';
+                closeButton.style.color = '#888';
+                closeButton.style.transition = 'color 0.3s ease';
+        
+                // Close button hover effect
+                closeButton.addEventListener('mouseenter', () => {
+                    closeButton.style.color = '#555';
+                });
+        
+                closeButton.addEventListener('mouseleave', () => {
+                    closeButton.style.color = '#888';
+                });
+        
+                // Close functionality
+                closeButton.addEventListener('click', () => {
+                    overlay.style.opacity = '0';
+                    setTimeout(() => {
+                        overlay.remove();
+                    }, 300); // Matches the transition time
+                });
+        
+                overlay.appendChild(closeButton);
+        
                 document.body.appendChild(overlay);
             }
-            overlay.innerHTML = ''; // Clear existing content
-    
-            // Check if items array is empty and display "No Rare Items Found" message if true
+        
+            // Clear existing content
+            overlay.innerHTML = '';
+        
+            // Re-append the close button
+            overlay.appendChild(closeButton);
+        
+            // Check if items array is empty and display a message if true
             if (items.length === 0) {
                 const noItemsMessage = document.createElement('div');
                 noItemsMessage.textContent = 'No Rare Items Found';
                 noItemsMessage.style.textAlign = 'center';
-                noItemsMessage.style.marginTop = '20px';
+                noItemsMessage.style.color = '#666';
+                noItemsMessage.style.fontSize = '18px';
                 overlay.appendChild(noItemsMessage);
-            } else {
-                items.forEach(item => {
-                    const itemElement = document.createElement('div');
-                    itemElement.style.marginBottom = '10px';
-    
-                    if (item.imgURL) {
-                        const imgElement = document.createElement('img');
-                        imgElement.src = item.imgURL;
-                        imgElement.style.width = '100px';
-                        imgElement.style.height = '100px';
-                        imgElement.style.display = 'block';
-                        itemElement.appendChild(imgElement);
-                    }
-    
-                    const textElement = document.createElement('div');
-                    textElement.textContent = `${item.name} - Profit: ${item.percent_profit.toFixed(2)}%`;
-                    textElement.style.marginTop = '5px';
-    
-                    itemElement.appendChild(textElement);
-                    overlay.appendChild(itemElement);
-                });
+                return;
             }
+        
+            // Create and style a title for the overlay
+            const title = document.createElement('h2');
+            title.textContent = 'NeoPro Highlights';
+            title.style.marginTop = '0';
+            title.style.marginBottom = '20px';
+            title.style.color = '#333';
+            title.style.fontSize = '22px';
+            title.style.borderBottom = '1px solid #ddd';
+            title.style.paddingBottom = '10px';
+            overlay.appendChild(title);
+        
+            // Create a list to display items
+            const itemList = document.createElement('div');
+            itemList.style.display = 'flex';
+            itemList.style.flexDirection = 'column';
+            itemList.style.gap = '15px';
+        
+            items.forEach(item => {
+                const itemContainer = document.createElement('div');
+                itemContainer.style.display = 'flex';
+                itemContainer.style.alignItems = 'center';
+                itemContainer.style.border = '1px solid #eee';
+                itemContainer.style.borderRadius = '8px';
+                itemContainer.style.padding = '10px';
+                itemContainer.style.backgroundColor = '#f9f9f9';
+                itemContainer.style.boxShadow = '0px 2px 4px rgba(0, 0, 0, 0.1)';
+        
+                // Add item image
+                if (item.imgURL) {
+                    const imgElement = document.createElement('img');
+                    imgElement.src = item.imgURL;
+                    imgElement.alt = item.name;
+                    imgElement.style.width = '60px';
+                    imgElement.style.height = '60px';
+                    imgElement.style.borderRadius = '4px';
+                    imgElement.style.marginRight = '15px';
+                    imgElement.style.objectFit = 'cover';
+                    itemContainer.appendChild(imgElement);
+                }
+        
+                // Add item details
+                const textContainer = document.createElement('div');
+                textContainer.style.display = 'flex';
+                textContainer.style.flexDirection = 'column';
+        
+                const itemName = document.createElement('div');
+                itemName.textContent = item.name;
+                itemName.style.fontSize = '16px';
+                itemName.style.fontWeight = 'bold';
+                itemName.style.color = '#333';
+        
+                const profitInfo = document.createElement('div');
+                profitInfo.textContent = `Profit: ${item.percent_profit.toFixed(2)}%`;
+                profitInfo.style.fontSize = '14px';
+                profitInfo.style.color = '#555';
+        
+                textContainer.appendChild(itemName);
+                textContainer.appendChild(profitInfo);
+        
+                itemContainer.appendChild(textContainer);
+                itemList.appendChild(itemContainer);
+            });
+        
+            overlay.appendChild(itemList);
         }
     
         function createLoadButton() {
@@ -219,6 +312,5 @@
         // Immediately invoke the function
         initNeoPro();
 
-        console.log("Global initNeoPro:", window.initNeoPro);
 
     })();
