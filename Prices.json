@@ -511,6 +511,2366 @@
       "percent_profit": 0,
       "rarity": "r98",
       "imgURL": "https://images.neopets.com/items/gar_sloth_pond.gif"
+    },
+    {
+      "name": "Hunting The Meerca Way",
+      "store_price": 0,
+      "resale_price": 7200,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/book_meerca_brown.gif"
+    },
+    {
+      "name": "Viras Revenge",
+      "store_price": 0,
+      "resale_price": 8400,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_vira_revenge.gif"
+    },
+    {
+      "name": "The Shadow Usul",
+      "store_price": 0,
+      "resale_price": 9000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_shadow.gif"
+    },
+    {
+      "name": "Twisted Tales Of The Mutant Ruki",
+      "store_price": 0,
+      "resale_price": 9650,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_twistedtales.gif"
+    },
+    {
+      "name": "Sinsis Puzzle Book",
+      "store_price": 0,
+      "resale_price": 11500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_sinsipuzzles.gif"
+    },
+    {
+      "name": "The Grand Usul Adventure",
+      "store_price": 0,
+      "resale_price": 12000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_usul_adventure.gif"
+    },
+    {
+      "name": "Wings of Steel",
+      "store_price": 0,
+      "resale_price": 12000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_pteri_wingsofsteel.gif"
+    },
+    {
+      "name": "The History Of Meridell",
+      "store_price": 0,
+      "resale_price": 13500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_medieval3.gif"
+    },
+    {
+      "name": "Mr X",
+      "store_price": 0,
+      "resale_price": 13700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_mrx.gif"
+    },
+    {
+      "name": "Easy Origami Flowers",
+      "store_price": 0,
+      "resale_price": 13800,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_easyorigamiflowers.gif"
+    },
+    {
+      "name": "Illusens Book of Charm",
+      "store_price": 0,
+      "resale_price": 14500,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_illusen_charm.gif"
+    },
+    {
+      "name": "Cotton Candy Adventure",
+      "store_price": 0,
+      "resale_price": 15000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_cotton_candy_adventures.gif"
+    },
+    {
+      "name": "I HATE Carrots!",
+      "store_price": 0,
+      "resale_price": 18000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_hate_carrots.gif"
+    },
+    {
+      "name": "The Shoy",
+      "store_price": 0,
+      "resale_price": 18000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_shoyru_shoy.gif"
+    },
+    {
+      "name": "Advanced Magic",
+      "store_price": 0,
+      "resale_price": 18600,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_magic_advanced.gif"
+    },
+    {
+      "name": "Happy Feet",
+      "store_price": 0,
+      "resale_price": 19000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_jubjub_feet.gif"
+    },
+    {
+      "name": "Nimmo Explorations",
+      "store_price": 0,
+      "resale_price": 19700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_explore_mystisle.gif"
+    },
+    {
+      "name": "Baking Chocolate Korbats",
+      "store_price": 0,
+      "resale_price": 20000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_korbat_chocolate.gif"
+    },
+    {
+      "name": "Zombie Legends",
+      "store_price": 0,
+      "resale_price": 20000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_zombieskullbook.gif"
+    },
+    {
+      "name": "Rainy Day Activities for Koi",
+      "store_price": 0,
+      "resale_price": 21000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_koi_rainyday.gif"
+    },
+    {
+      "name": "The Lost Grundo",
+      "store_price": 0,
+      "resale_price": 21300,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_grundo_lost.gif"
+    },
+    {
+      "name": "To Beak or Not to Beak",
+      "store_price": 0,
+      "resale_price": 22200,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_pteribeak.gif"
+    },
+    {
+      "name": "Grand Master",
+      "store_price": 0,
+      "resale_price": 22700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_nimmo_master.gif"
+    },
+    {
+      "name": "Keeping Your Krawk Happy",
+      "store_price": 0,
+      "resale_price": 23300,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_krawk_happy.gif"
+    },
+    {
+      "name": "Better Than You",
+      "store_price": 0,
+      "resale_price": 23400,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_betteryou.gif"
+    },
+    {
+      "name": "Wings Over the World",
+      "store_price": 0,
+      "resale_price": 23500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_wings.gif"
+    },
+    {
+      "name": "Flotsam Wok Recipes",
+      "store_price": 0,
+      "resale_price": 23600,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/book_flotsam_wok.gif"
+    },
+    {
+      "name": "Tonu Tails",
+      "store_price": 0,
+      "resale_price": 23900,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_tonu_tails.gif"
+    },
+    {
+      "name": "My Sweet Scorchio",
+      "store_price": 0,
+      "resale_price": 24500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_scor_sweet.gif"
+    },
+    {
+      "name": "Poogle Performers",
+      "store_price": 0,
+      "resale_price": 25000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_poogle_performers.gif"
+    },
+    {
+      "name": "The Royal Treasure Collection",
+      "store_price": 0,
+      "resale_price": 25000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/book_medieval2.gif"
+    },
+    {
+      "name": "Virtupets Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 25000,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_mg_virtupets.gif"
+    },
+    {
+      "name": "Life In the Citadel",
+      "store_price": 0,
+      "resale_price": 25900,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_eyrie_citadel.gif"
+    },
+    {
+      "name": "Attack Of The Meercabots",
+      "store_price": 0,
+      "resale_price": 26000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_meerca_meerbots.gif"
+    },
+    {
+      "name": "The Red Paw",
+      "store_price": 0,
+      "resale_price": 26000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_kougra_battle.gif"
+    },
+    {
+      "name": "Escape From Meridell Castle",
+      "store_price": 0,
+      "resale_price": 26700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_escapemeridell.gif"
+    },
+    {
+      "name": "Faeries of Spring",
+      "store_price": 0,
+      "resale_price": 27000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_faeries_ofspring.gif"
+    },
+    {
+      "name": "Desert Days",
+      "store_price": 0,
+      "resale_price": 27500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_kacheek_desert.gif"
+    },
+    {
+      "name": "Popular Destinations",
+      "store_price": 0,
+      "resale_price": 27800,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_peophin_popdestinations1.gif"
+    },
+    {
+      "name": "Aisha Lovin It",
+      "store_price": 0,
+      "resale_price": 28000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_aisha_lovin.gif"
+    },
+    {
+      "name": "Evil Plots For Beginners",
+      "store_price": 0,
+      "resale_price": 28000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/book_evilplots.gif"
+    },
+    {
+      "name": "Just Rolling Along",
+      "store_price": 0,
+      "resale_price": 28000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_justrolling.gif"
+    },
+    {
+      "name": "Meerca Paint Guide",
+      "store_price": 0,
+      "resale_price": 28800,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_meerca_orange.gif"
+    },
+    {
+      "name": "Spring Soiree",
+      "store_price": 0,
+      "resale_price": 29400,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_springsoiree.gif"
+    },
+    {
+      "name": "Cave Kacheek",
+      "store_price": 0,
+      "resale_price": 30000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_cavekacheek.gif"
+    },
+    {
+      "name": "Kiko: Emperor of the Desert",
+      "store_price": 0,
+      "resale_price": 30000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_kiko_desert.gif"
+    },
+    {
+      "name": "Krawk Pot Recipes",
+      "store_price": 0,
+      "resale_price": 30100,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_krawk_pot.gif"
+    },
+    {
+      "name": "Korbats Lab Secrets",
+      "store_price": 0,
+      "resale_price": 31100,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_korbat_labsecret.gif"
+    },
+    {
+      "name": "The Pineapple Chia",
+      "store_price": 0,
+      "resale_price": 32000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_chia_pine.gif"
+    },
+    {
+      "name": "Volcano Run Game Guide",
+      "store_price": 0,
+      "resale_price": 33000,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_valcono2_guides.gif"
+    },
+    {
+      "name": "The JubJubs Secret",
+      "store_price": 0,
+      "resale_price": 33500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_jubjub_secret.gif"
+    },
+    {
+      "name": "Concert Hall Pictures",
+      "store_price": 0,
+      "resale_price": 33700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_concerthallpics.gif"
+    },
+    {
+      "name": "Uni and the Uniocto",
+      "store_price": 0,
+      "resale_price": 34600,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_uni_uniocto.gif"
+    },
+    {
+      "name": "Treelurkers",
+      "store_price": 0,
+      "resale_price": 34900,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_treelurkers.gif"
+    },
+    {
+      "name": "Tyrannia Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 36000,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_mg_tyrannia.gif"
+    },
+    {
+      "name": "Tis Be Harvesting Time",
+      "store_price": 0,
+      "resale_price": 36900,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_harvest_time.gif"
+    },
+    {
+      "name": "Rare Stamps",
+      "store_price": 0,
+      "resale_price": 37000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_rarestamps.gif"
+    },
+    {
+      "name": "What Me Cheat",
+      "store_price": 0,
+      "resale_price": 37000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_jetsam_cheat.gif"
+    },
+    {
+      "name": "Rare and Retired Items",
+      "store_price": 0,
+      "resale_price": 38900,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_rareitems.gif"
+    },
+    {
+      "name": "The Plushie Skeith",
+      "store_price": 0,
+      "resale_price": 39000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_skeith2004_1.gif"
+    },
+    {
+      "name": "Chia Ghost Stories",
+      "store_price": 0,
+      "resale_price": 39100,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_chia_ghost.gif"
+    },
+    {
+      "name": "King Skarl the I",
+      "store_price": 0,
+      "resale_price": 39600,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_skeith_king.gif"
+    },
+    {
+      "name": "Legendary Skeiths",
+      "store_price": 0,
+      "resale_price": 40000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_skeithancient.gif"
+    },
+    {
+      "name": "Mynci Book of World Records",
+      "store_price": 0,
+      "resale_price": 40000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_mynci_records.gif"
+    },
+    {
+      "name": "Moehug Visits Altador",
+      "store_price": 0,
+      "resale_price": 40700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_moehug_altador.gif"
+    },
+    {
+      "name": "Roo Island Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 40800,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_mg_roo.gif"
+    },
+    {
+      "name": "Patter Feet",
+      "store_price": 0,
+      "resale_price": 41200,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_cybunny_patter.gif"
+    },
+    {
+      "name": "Crypt Days",
+      "store_price": 0,
+      "resale_price": 41500,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/book_ryptic_adys.gif"
+    },
+    {
+      "name": "Harris Tales",
+      "store_price": 0,
+      "resale_price": 43500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_harris_tales.gif"
+    },
+    {
+      "name": "Double Tuskaninny Tales",
+      "store_price": 0,
+      "resale_price": 44100,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_tusk_open.gif"
+    },
+    {
+      "name": "Chocolate Chia Cookbook",
+      "store_price": 0,
+      "resale_price": 44700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_chocolatecookbook.gif"
+    },
+    {
+      "name": "Talk Like A Pirate",
+      "store_price": 0,
+      "resale_price": 45700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_pirate_talklike.gif"
+    },
+    {
+      "name": "Wings of a Ghost",
+      "store_price": 0,
+      "resale_price": 46700,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_wings_of_a_ghost.gif"
+    },
+    {
+      "name": "On Tour with Chomby and the Fungus Balls",
+      "store_price": 0,
+      "resale_price": 47000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_chomby_fungus.gif"
+    },
+    {
+      "name": "Secret Bruce Journal",
+      "store_price": 0,
+      "resale_price": 47000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_bruce_bow.gif"
+    },
+    {
+      "name": "Altador Cup Rule Book",
+      "store_price": 0,
+      "resale_price": 47400,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_altadorcup.gif"
+    },
+    {
+      "name": "Grundo Cafe Recipes",
+      "store_price": 0,
+      "resale_price": 47500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_cafe.gif"
+    },
+    {
+      "name": "Zap the Robot Aisha",
+      "store_price": 0,
+      "resale_price": 48100,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_aisha_robozap.gif"
+    },
+    {
+      "name": "Unleashed - The Great Lupe Escape",
+      "store_price": 0,
+      "resale_price": 48200,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_lupe_unleashed.gif"
+    },
+    {
+      "name": "Usul Health",
+      "store_price": 0,
+      "resale_price": 49200,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_usul_health.gif"
+    },
+    {
+      "name": "The Midnight Moehog",
+      "store_price": 0,
+      "resale_price": 52500,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_midnightmoehog.gif"
+    },
+    {
+      "name": "Cybunny Secrets",
+      "store_price": 0,
+      "resale_price": 53000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_cybunny_secrets.gif"
+    },
+    {
+      "name": "Pteri Poetry",
+      "store_price": 0,
+      "resale_price": 53000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_pteri_poetry2003.gif"
+    },
+    {
+      "name": "The Best of Neopian Ice",
+      "store_price": 0,
+      "resale_price": 54000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_besticeinneopia.gif"
+    },
+    {
+      "name": "Altador Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 59000,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_mg_altador.gif"
+    },
+    {
+      "name": "Dont Call Me Cute",
+      "store_price": 0,
+      "resale_price": 59000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_dontcallmecute.gif"
+    },
+    {
+      "name": "Advert Attack Guide Book",
+      "store_price": 0,
+      "resale_price": 59500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_game_advertattack.gif"
+    },
+    {
+      "name": "Noodles for ALL",
+      "store_price": 0,
+      "resale_price": 59500,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_all_noodlesfor.gif"
+    },
+    {
+      "name": "How to make Origami Creatures",
+      "store_price": 0,
+      "resale_price": 60500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_origami_lama.gif"
+    },
+    {
+      "name": "Legend of the Alabriss",
+      "store_price": 0,
+      "resale_price": 61000,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_alabriss_legend.gif"
+    },
+    {
+      "name": "Meridell Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 61000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_mg_meridell.gif"
+    },
+    {
+      "name": "Acara Algebra",
+      "store_price": 0,
+      "resale_price": 64000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_acara_algebra.gif"
+    },
+    {
+      "name": "The Chomby Champion",
+      "store_price": 0,
+      "resale_price": 64500,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_chomby_champion.gif"
+    },
+    {
+      "name": "I, Moehog",
+      "store_price": 0,
+      "resale_price": 66000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_i_moehog.gif"
+    },
+    {
+      "name": "Now You Can Fry Anything",
+      "store_price": 0,
+      "resale_price": 66000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_fry_anything.gif"
+    },
+    {
+      "name": "JubJub Day Ideas",
+      "store_price": 0,
+      "resale_price": 67500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_jubjub_dayideas.gif"
+    },
+    {
+      "name": "Angelic Usukis",
+      "store_price": 0,
+      "resale_price": 68000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_usuki_angel.gif"
+    },
+    {
+      "name": "Famous Aisha Magicians",
+      "store_price": 0,
+      "resale_price": 72000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_aisha_magicians.gif"
+    },
+    {
+      "name": "How To Avoid Poisonous Mushrooms.",
+      "store_price": 0,
+      "resale_price": 72500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_poisonous_mushrooms.gif"
+    },
+    {
+      "name": "Calendar Scroll",
+      "store_price": 0,
+      "resale_price": 74500,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_scroll_calendar.gif"
+    },
+    {
+      "name": "Faerie Usukis",
+      "store_price": 0,
+      "resale_price": 75000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_usuki_firefaerie.gif"
+    },
+    {
+      "name": "Nimmos Pond Guide Book",
+      "store_price": 0,
+      "resale_price": 75000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_game_nimmospond.gif"
+    },
+    {
+      "name": "The Korbat Researcher",
+      "store_price": 0,
+      "resale_price": 75000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_korbat_researcher.gif"
+    },
+    {
+      "name": "101 Beverage Recipes",
+      "store_price": 0,
+      "resale_price": 78500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_101beveragerecipes.gif"
+    },
+    {
+      "name": "Infamous Xweetok Guide",
+      "store_price": 0,
+      "resale_price": 80000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_infamous_xweetoks.gif"
+    },
+    {
+      "name": "Feepit Pop-Up Book",
+      "store_price": 0,
+      "resale_price": 82000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_feepit_popup.gif"
+    },
+    {
+      "name": "JubJub Journal",
+      "store_price": 0,
+      "resale_price": 82000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/book_jubjub_journal.gif"
+    },
+    {
+      "name": "The Spectre Legacy",
+      "store_price": 0,
+      "resale_price": 82000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/book_spectrelegacy.gif"
+    },
+    {
+      "name": "The Story of the Acara Acrobat",
+      "store_price": 0,
+      "resale_price": 82000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_story_acaraacrobat.gif"
+    },
+    {
+      "name": "Wocky Magic",
+      "store_price": 0,
+      "resale_price": 83500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_wockymagic.gif"
+    },
+    {
+      "name": "Bumper Cars Guide Book",
+      "store_price": 0,
+      "resale_price": 84000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_game_bumpercars.gif"
+    },
+    {
+      "name": "Neopian Autumns",
+      "store_price": 0,
+      "resale_price": 84000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_neopian_autumn.gif"
+    },
+    {
+      "name": "Writers Tips",
+      "store_price": 0,
+      "resale_price": 85000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_writerstips.gif"
+    },
+    {
+      "name": "Catalogue of Secret Paintbrushes",
+      "store_price": 0,
+      "resale_price": 86000,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_paintbrush_secret_catalog.gif"
+    },
+    {
+      "name": "Terror Mountain Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 88000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_mg_terrormountain.gif"
+    },
+    {
+      "name": "The Ultimate Sticker Book",
+      "store_price": 0,
+      "resale_price": 88500,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_stickers.gif"
+    },
+    {
+      "name": "Haunted Woods Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 90000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_mg_hauntedwoods.gif"
+    },
+    {
+      "name": "Scorchio Defence",
+      "store_price": 0,
+      "resale_price": 90000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_scorchio_defence.gif"
+    },
+    {
+      "name": "Fall Destinations",
+      "store_price": 0,
+      "resale_price": 90500,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_fall_destinations.gif"
+    },
+    {
+      "name": "Big Book of Facts",
+      "store_price": 0,
+      "resale_price": 92000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/school_42.gif"
+    },
+    {
+      "name": "Friends Forever",
+      "store_price": 0,
+      "resale_price": 92000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_friends_forever.gif"
+    },
+    {
+      "name": "Nutty The Turdle",
+      "store_price": 0,
+      "resale_price": 93000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_turdlenutty.gif"
+    },
+    {
+      "name": "Toast Tasting",
+      "store_price": 0,
+      "resale_price": 94500,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_toast_tasting.gif"
+    },
+    {
+      "name": "The Sneaky Schnelly",
+      "store_price": 0,
+      "resale_price": 95500,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_schnelly_sneak.gif"
+    },
+    {
+      "name": "Kiko Lake Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 96500,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_mg_kiko.gif"
+    },
+    {
+      "name": "All About Food",
+      "store_price": 0,
+      "resale_price": 100000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/foo_all_about_food.gif"
+    },
+    {
+      "name": "The Symol Scientist",
+      "store_price": 0,
+      "resale_price": 108000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_symol_scientist.gif"
+    },
+    {
+      "name": "Cooking With Peas",
+      "store_price": 0,
+      "resale_price": 110000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_pea_cooking.gif"
+    },
+    {
+      "name": "Lost Desert Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 114000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_mg_lostdesert.gif"
+    },
+    {
+      "name": "The Great Chomby Caper",
+      "store_price": 0,
+      "resale_price": 114000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_great_chomby_caper.gif"
+    },
+    {
+      "name": "Illusens Illusion",
+      "store_price": 0,
+      "resale_price": 115000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_illusen_illusion.gif"
+    },
+    {
+      "name": "Mystery Island Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 117000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_altadorcup_mysteryislan.gif"
+    },
+    {
+      "name": "Biological Encyclopedia of 14 Basic Neopian Algaes Vol. 12",
+      "store_price": 0,
+      "resale_price": 122000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_lolnowaywecanfitallthis.gif"
+    },
+    {
+      "name": "Little Timmys Story",
+      "store_price": 0,
+      "resale_price": 125000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_tusk_timmy.gif"
+    },
+    {
+      "name": "Shadow Usul Stories",
+      "store_price": 0,
+      "resale_price": 137000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_shadowusul.gif"
+    },
+    {
+      "name": "Baby JubJub Cloth Book",
+      "store_price": 0,
+      "resale_price": 140000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_jubjub_clothbook.gif"
+    },
+    {
+      "name": "Abominable Snowball Fights",
+      "store_price": 0,
+      "resale_price": 144000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_abomsnow_fight.gif"
+    },
+    {
+      "name": "300m Peanut Dash Guide Book",
+      "store_price": 0,
+      "resale_price": 145000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_game_peanutdash.gif"
+    },
+    {
+      "name": "Brightvale Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 157000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_mg_brightvale.gif"
+    },
+    {
+      "name": "Illusens Journey",
+      "store_price": 0,
+      "resale_price": 157000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_illusen_journey.gif"
+    },
+    {
+      "name": "The Hot Scorchio Cook Book",
+      "store_price": 0,
+      "resale_price": 164000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_scorchio_hot.gif"
+    },
+    {
+      "name": "Kacheek Magic",
+      "store_price": 0,
+      "resale_price": 170000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/book_kacheekmagic.gif"
+    },
+    {
+      "name": "Culture and History of Faerieland",
+      "store_price": 0,
+      "resale_price": 199000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_faerieland_culture.gif"
+    },
+    {
+      "name": "An Eyrie Evening",
+      "store_price": 0,
+      "resale_price": 210000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_eerie_eyrie.gif"
+    },
+    {
+      "name": "Darigan Citadel Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 211000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_mg_darigan.gif"
+    },
+    {
+      "name": "Shenkuu Floral Arrangement",
+      "store_price": 0,
+      "resale_price": 218000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_shenkuu_floral.gif"
+    },
+    {
+      "name": "Hand-crafted Wool Paper",
+      "store_price": 0,
+      "resale_price": 220000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_handcraft_woolppr.gif"
+    },
+    {
+      "name": "Conquer the Dark",
+      "store_price": 0,
+      "resale_price": 221000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_dark.gif"
+    },
+    {
+      "name": "The Legend of Scordrax",
+      "store_price": 0,
+      "resale_price": 225000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_scordrax_legend.gif"
+    },
+    {
+      "name": "Spotting Seaweed",
+      "store_price": 0,
+      "resale_price": 228000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/book_seaweed.gif"
+    },
+    {
+      "name": "A Grarrls Growl",
+      "store_price": 0,
+      "resale_price": 232000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_grarrl_growl.gif"
+    },
+    {
+      "name": "Shenkuu Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 234000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_mg_shenkuu.gif"
+    },
+    {
+      "name": "How to Make a Bonfire",
+      "store_price": 0,
+      "resale_price": 245000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_howtomake_bonfire.gif"
+    },
+    {
+      "name": "Krawk Island Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 248000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_mg_krawkisland.gif"
+    },
+    {
+      "name": "Grundo Tales",
+      "store_price": 0,
+      "resale_price": 250000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_grundotales.gif"
+    },
+    {
+      "name": "Draik Tales",
+      "store_price": 0,
+      "resale_price": 255000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/book_draik_tales.gif"
+    },
+    {
+      "name": "The Dark Peophin",
+      "store_price": 0,
+      "resale_price": 255000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_dark_peophin.gif"
+    },
+    {
+      "name": "Usul Investigations",
+      "store_price": 0,
+      "resale_price": 260000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_usul_sherlock.gif"
+    },
+    {
+      "name": "Purple Lupe Photo Album",
+      "store_price": 0,
+      "resale_price": 275000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_lupe_photobook04.gif"
+    },
+    {
+      "name": "Uni Cycles",
+      "store_price": 0,
+      "resale_price": 275000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_unicycles.gif"
+    },
+    {
+      "name": "Forbidden Pteri Tales",
+      "store_price": 0,
+      "resale_price": 295000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_pteri_lock2003.gif"
+    },
+    {
+      "name": "Uni Myths",
+      "store_price": 0,
+      "resale_price": 295000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_unimyth.gif"
+    },
+    {
+      "name": "Origami Poogle Pop Up Book",
+      "store_price": 0,
+      "resale_price": 300000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_origami_poogle.gif"
+    },
+    {
+      "name": "Famous Chias",
+      "store_price": 0,
+      "resale_price": 315000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_chia_famous.gif"
+    },
+    {
+      "name": "Unwanted Grey",
+      "store_price": 0,
+      "resale_price": 315000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_unwanted_grey.gif"
+    },
+    {
+      "name": "Long Neck Lucy",
+      "store_price": 0,
+      "resale_price": 320000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/book_chomby_lucy.gif"
+    },
+    {
+      "name": "Cooking With Your Wock(y)",
+      "store_price": 0,
+      "resale_price": 330000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_wocky_wok.gif"
+    },
+    {
+      "name": "Buzz Acrobatic Stunts",
+      "store_price": 0,
+      "resale_price": 370000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/book_buzz1.gif"
+    },
+    {
+      "name": "The Lonely JubJub",
+      "store_price": 0,
+      "resale_price": 375000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/book_jubjub_lonely.gif"
+    },
+    {
+      "name": "Do It Yourself Bobbleheads",
+      "store_price": 0,
+      "resale_price": 380000,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_bobblehead_doityourself.gif"
+    },
+    {
+      "name": "Gelert A to Z",
+      "store_price": 0,
+      "resale_price": 410000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_gelert_atoz.gif"
+    },
+    {
+      "name": "Cenanit Ragamans",
+      "store_price": 0,
+      "resale_price": 420000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/book_cenanit_ragamans.gif"
+    },
+    {
+      "name": "Maraquan Pop-Up Book",
+      "store_price": 0,
+      "resale_price": 440000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_whirlpool_popup.gif"
+    },
+    {
+      "name": "The Happiest Day",
+      "store_price": 0,
+      "resale_price": 445000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_the_happiest_day.gif"
+    },
+    {
+      "name": "The Pea From Outer Space",
+      "store_price": 0,
+      "resale_price": 465000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_pea_space.gif"
+    },
+    {
+      "name": "The Life of a Hot Dog",
+      "store_price": 0,
+      "resale_price": 475000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_bluesplathotdogbook.gif"
+    },
+    {
+      "name": "The Velveteen Draik",
+      "store_price": 0,
+      "resale_price": 500000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_velveteen_draik.gif"
+    },
+    {
+      "name": "The Draik",
+      "store_price": 0,
+      "resale_price": 620000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_draik_the.gif"
+    },
+    {
+      "name": "The Grizzly Gruslen",
+      "store_price": 0,
+      "resale_price": 625000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_gruslen_grizzly.gif"
+    },
+    {
+      "name": "A Magazine",
+      "store_price": 0,
+      "resale_price": 660000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/book_aisha_amagazine.gif"
+    },
+    {
+      "name": "Legend Of The Quiggle Runner",
+      "store_price": 0,
+      "resale_price": 665000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_quiggle_runner.gif"
+    },
+    {
+      "name": "Peophin Power!",
+      "store_price": 0,
+      "resale_price": 710000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/book_peophin_power.gif"
+    },
+    {
+      "name": "Gifts for your Enemies",
+      "store_price": 0,
+      "resale_price": 770000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_giftsforyourenemy.gif"
+    },
+    {
+      "name": "Meruth The True Story",
+      "store_price": 0,
+      "resale_price": 775000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_korbat_meruth.gif"
+    },
+    {
+      "name": "A Seasonal Pea",
+      "store_price": 0,
+      "resale_price": 795000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_pea_seasonal.gif"
+    },
+    {
+      "name": "Secret Lenny Book",
+      "store_price": 0,
+      "resale_price": 845000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_lenny_secret.gif"
+    },
+    {
+      "name": "Inside the Mind of Bob",
+      "store_price": 0,
+      "resale_price": 850000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_bob.gif"
+    },
+    {
+      "name": "Chomby Poems",
+      "store_price": 0,
+      "resale_price": 860000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_chomby_poems.gif"
+    },
+    {
+      "name": "101 Leafy Uses",
+      "store_price": 0,
+      "resale_price": 880000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_leafy_uses.gif"
+    },
+    {
+      "name": "A Chias Choice",
+      "store_price": 0,
+      "resale_price": 885000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/book_chiaschoice.gif"
+    },
+    {
+      "name": "Lupe Legends",
+      "store_price": 0,
+      "resale_price": 900000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_lupe_pawchain.gif"
+    },
+    {
+      "name": "101 Thieving Tricks",
+      "store_price": 0,
+      "resale_price": 960000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_thieving_tricks.gif"
+    },
+    {
+      "name": "Captain Meerca",
+      "store_price": 0,
+      "resale_price": 975000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/book_meerca_green.gif"
+    },
+    {
+      "name": "Cheat By Capara",
+      "store_price": 0,
+      "resale_price": 975000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_cheatcapara.gif"
+    },
+    {
+      "name": "Joy of Jelly Kaus",
+      "store_price": 0,
+      "resale_price": 980000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_kau_jellyjoy.gif"
+    },
+    {
+      "name": "All is Well",
+      "store_price": 0,
+      "resale_price": 990000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_all_is_well.gif"
+    },
+    {
+      "name": "Faerie Chombies",
+      "store_price": 0,
+      "resale_price": 990000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_chomby_faeries.gif"
+    },
+    {
+      "name": "Super Secret Guide to the Defenders of Neopia Headquarters",
+      "store_price": 0,
+      "resale_price": 990000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_defenders_castle.gif"
+    },
+    {
+      "name": "Jazzmosis Biography",
+      "store_price": 0,
+      "resale_price": 999999,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_jazzmosisbio.gif"
+    },
+    {
+      "name": "Lenny Cookbook",
+      "store_price": 0,
+      "resale_price": 999999,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_lenny_cookbook.gif"
+    },
+    {
+      "name": "Mortog Music",
+      "store_price": 0,
+      "resale_price": 1000000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_mortog_music.gif"
+    },
+    {
+      "name": "Cake Recipes for All Occasions",
+      "store_price": 0,
+      "resale_price": 1200000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_all_the_caaaaake.gif"
+    },
+    {
+      "name": "Cybunny Care",
+      "store_price": 0,
+      "resale_price": 1200000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_cybunny.gif"
+    },
+    {
+      "name": "Go Home Moehog!",
+      "store_price": 0,
+      "resale_price": 1200000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_gohome_moehog.gif"
+    },
+    {
+      "name": "Neopian Heroes",
+      "store_price": 0,
+      "resale_price": 1200000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_neopianheroes.gif"
+    },
+    {
+      "name": "The Eyrie Guard",
+      "store_price": 0,
+      "resale_price": 1200000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_eyrie_guardian.gif"
+    },
+    {
+      "name": "Zafara Mystery Collection",
+      "store_price": 0,
+      "resale_price": 1200000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_zafaramystery.gif"
+    },
+    {
+      "name": "1052 Sakhmetian Tales",
+      "store_price": 0,
+      "resale_price": 1300000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_1052_sakh_tales.gif"
+    },
+    {
+      "name": "Decoding a Coded Decoding Book",
+      "store_price": 0,
+      "resale_price": 1300000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_decoding_codes.gif"
+    },
+    {
+      "name": "Poogle Pages",
+      "store_price": 0,
+      "resale_price": 1400000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_pooglepages.gif"
+    },
+    {
+      "name": "Quantum Physics",
+      "store_price": 0,
+      "resale_price": 1400000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_quantum_physics.gif"
+    },
+    {
+      "name": "Ultimate Space Chronicles Set",
+      "store_price": 0,
+      "resale_price": 1400000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_ultimate_space_chronicles.gif"
+    },
+    {
+      "name": "12 Angry Myncies",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/book_mynci_angry.gif"
+    },
+    {
+      "name": "Aerial Shots of Neopia",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_buzz4.gif"
+    },
+    {
+      "name": "Beating Sloth",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_grundo5.gif"
+    },
+    {
+      "name": "Decorative Towel Folding",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_towel_folding.gif"
+    },
+    {
+      "name": "Meercas In Love",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_meerca_5.gif"
+    },
+    {
+      "name": "Professor Hugo Fairweathers Guide to Petpetpets",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_hugo_guide.gif"
+    },
+    {
+      "name": "The Way of the Draik",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/book_draik_way.gif"
+    },
+    {
+      "name": "Unabridged Dictionary",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_deluxedictionary.gif"
+    },
+    {
+      "name": "Book of Bruno",
+      "store_price": 0,
+      "resale_price": 1600000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_bruno.gif"
+    },
+    {
+      "name": "Shenkuu Hiking",
+      "store_price": 0,
+      "resale_price": 1600000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_shenkuu_hiking.gif"
+    },
+    {
+      "name": "The Joys of Cooking with Magma",
+      "store_price": 0,
+      "resale_price": 1600000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_artofcookingmagma.gif"
+    },
+    {
+      "name": "Faerie Imprisonment for Fun and Profit",
+      "store_price": 0,
+      "resale_price": 1700000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_faerie_fun_profit.gif"
+    },
+    {
+      "name": "Care of Koi",
+      "store_price": 0,
+      "resale_price": 1800000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_koicare.gif"
+    },
+    {
+      "name": "Making Kau Plushies",
+      "store_price": 0,
+      "resale_price": 1800000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_kau_plushies.gif"
+    },
+    {
+      "name": "When Neggs Explode",
+      "store_price": 0,
+      "resale_price": 1800000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_fony14_when_negg_explo.gif"
+    },
+    {
+      "name": "The Zombie Chomby",
+      "store_price": 0,
+      "resale_price": 1850000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_chomby_zombie.gif"
+    },
+    {
+      "name": "Finding Illusen",
+      "store_price": 0,
+      "resale_price": 1900000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_illusen_finding.gif"
+    },
+    {
+      "name": "Moehog Masterpieces",
+      "store_price": 0,
+      "resale_price": 1900000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_moehogmaster.gif"
+    },
+    {
+      "name": "Book Of Peas",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_pea_bookofpeas.gif"
+    },
+    {
+      "name": "Calculus Basics",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_calculus.gif"
+    },
+    {
+      "name": "Chianatomy",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/book_chianatomy.gif"
+    },
+    {
+      "name": "Faerie Secrets",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_faerie_secrets.gif"
+    },
+    {
+      "name": "Gallery Of Toast",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_gallery_toast.gif"
+    },
+    {
+      "name": "Growing a Vine Yard",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_vine_yard.gif"
+    },
+    {
+      "name": "Gruslens Galore",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_gruslen_galore.gif"
+    },
+    {
+      "name": "Iron Skeith",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_defenders_ironskeith.gif"
+    },
+    {
+      "name": "Jelly Acara Travels",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_jelly_acara_maintenance.gif"
+    },
+    {
+      "name": "Kau Pastures",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_kaupastures.gif"
+    },
+    {
+      "name": "Moehog Matching",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_moehogmatch.gif"
+    },
+    {
+      "name": "My Life As A Lenny",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_lenny_life_as.gif"
+    },
+    {
+      "name": "Rubber Mallard Collecting",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/boo_rubbermallard_collect.gif"
+    },
+    {
+      "name": "The Book of Paper Cuts",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_paper_cuts.gif"
+    },
+    {
+      "name": "The Key to being an Altadorian",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_the_key_to_be_an_altadori.gif"
+    },
+    {
+      "name": "Zafara Lore",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_zafaralore.gif"
+    },
+    {
+      "name": "Lupe Digest",
+      "store_price": 0,
+      "resale_price": 2100000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_lupe_digest.gif"
+    },
+    {
+      "name": "Flotsam Tales",
+      "store_price": 0,
+      "resale_price": 2500000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_flotsam_tales.gif"
+    },
+    {
+      "name": "Neopias Past",
+      "store_price": 0,
+      "resale_price": 2500000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/book_past.gif"
+    },
+    {
+      "name": "Kougra Classics",
+      "store_price": 0,
+      "resale_price": 2600000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_kougraclassics.gif"
+    },
+    {
+      "name": "Neopian Atlas",
+      "store_price": 0,
+      "resale_price": 2800000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_atlasofneopia.gif"
+    },
+    {
+      "name": "The Island Of Kacheeks",
+      "store_price": 0,
+      "resale_price": 3000000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/boo_kacheek_island.gif"
+    },
+    {
+      "name": "Lenny Witchcraft",
+      "store_price": 0,
+      "resale_price": 5600000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_lenny_witchcraft.gif"
+    },
+    {
+      "name": "Trigonometry Hyperbolics",
+      "store_price": 0,
+      "resale_price": 6000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_trig.gif"
+    },
+    {
+      "name": "A Chia Halloween",
+      "store_price": 0,
+      "resale_price": 7000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_chia5.gif"
+    },
+    {
+      "name": "Petfolio",
+      "store_price": 0,
+      "resale_price": 7000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_petfolio.gif"
+    },
+    {
+      "name": "Brain Trees Brainiac",
+      "store_price": 0,
+      "resale_price": 10000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_brainiac.gif"
+    },
+    {
+      "name": "Illusens Diary",
+      "store_price": 0,
+      "resale_price": 10000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_illusen_diary.gif"
+    },
+    {
+      "name": "The Bad Skeith",
+      "store_price": 0,
+      "resale_price": 10000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_badskeith.gif"
+    },
+    {
+      "name": "Olde Zafara",
+      "store_price": 0,
+      "resale_price": 12000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_oldezafara.gif"
+    },
+    {
+      "name": "Nimmo Battle Cry",
+      "store_price": 0,
+      "resale_price": 14000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_nimmo3.gif"
+    },
+    {
+      "name": "Chomby Mysteries",
+      "store_price": 0,
+      "resale_price": 14500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_chomby_myst.gif"
+    },
+    {
+      "name": "Chia Art History",
+      "store_price": 0,
+      "resale_price": 15000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_chiaarthistory.gif"
+    },
+    {
+      "name": "Cures for Bad Breath",
+      "store_price": 0,
+      "resale_price": 15000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_scor_breath.gif"
+    },
+    {
+      "name": "Modern Lupe Magazine",
+      "store_price": 0,
+      "resale_price": 15000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_lupe_modern.gif"
+    },
+    {
+      "name": "A Chia Story",
+      "store_price": 0,
+      "resale_price": 16000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_chia3.gif"
+    },
+    {
+      "name": "A History of Chias",
+      "store_price": 0,
+      "resale_price": 18000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_chia4.gif"
+    },
+    {
+      "name": "The Voodoo Techo",
+      "store_price": 0,
+      "resale_price": 20000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_techo_voodo.gif"
+    },
+    {
+      "name": "Best Friends",
+      "store_price": 0,
+      "resale_price": 25000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/book_scor_friends.gif"
+    },
+    {
+      "name": "History of the Strength Potion",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_strength_potion.gif"
+    },
+    {
+      "name": "Eye Of The Grarrl",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/boo_grarrl_eye.gif"
+    },
+    {
+      "name": "The Spotted Flotsam",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/book_flotsam_journal.gif"
+    },
+    {
+      "name": "An Elderly Acaras Day Off",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_dayoff_acaraelderly.gif"
+    },
+    {
+      "name": "Common Cures: Revised Edition",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/book_cures.gif"
+    },
+    {
+      "name": "The Loneliest Draik",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_loneliest_draik.gif"
+    },
+    {
+      "name": "Hiding Valuables",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_hiding_valuables.gif"
+    },
+    {
+      "name": "Altador Paperback Book",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/boo_paper_altador.gif"
+    },
+    {
+      "name": "My Hobby Book",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/book_jubjub_hobby.gif"
+    },
+    {
+      "name": "Ixi Glade",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_ixi_glade.gif"
+    },
+    {
+      "name": "Faeries of Winter",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r91",
+      "imgURL": "https://images.neopets.com/items/boo_faeries_ofwinter.gif"
+    },
+    {
+      "name": "The Draconian Scroll",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_draconian_scroll.gif"
+    },
+    {
+      "name": "Draik Magic",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/book_draik_magic.gif"
+    },
+    {
+      "name": "Krawk Island Altador Cup Play Book",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_ac_krawkisland.gif"
+    },
+    {
+      "name": "Vicious Attack Book",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/boo_attack_book.gif"
+    },
+    {
+      "name": "The Guide to Facial Hair",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_facialhair_guide.gif"
+    },
+    {
+      "name": "Common Cures",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r93",
+      "imgURL": "https://images.neopets.com/items/book_commoncures.gif"
+    },
+    {
+      "name": "Faerieland Altador Cup Media Book",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/boo_mg_faerieland.gif"
+    },
+    {
+      "name": "Carnival Of Terror Guide Book",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_game_carnival.gif"
+    },
+    {
+      "name": "Poogle Day Ideas",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/boo_poogle_ideas.gif"
+    },
+    {
+      "name": "The Chomby Secret",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/book_chomby_secret.gif"
+    },
+    {
+      "name": "Super Lupe Comics",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/book_lupe_super.gif"
+    },
+    {
+      "name": "Hold Your Breath",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/book_peophin_breath.gif"
+    },
+    {
+      "name": "Book of Fake Scratchcards",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/boo_fake_scratchcards.gif"
+    },
+    {
+      "name": "Chia Quotes",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/book_chiaquotes.gif"
+    },
+    {
+      "name": "Sophie, A Biography",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/boo_sophie.gif"
     }
   ]
 }
