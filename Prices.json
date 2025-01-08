@@ -1,0 +1,516 @@
+{
+  "Prices": [
+    {
+      "name": "Delicate Snowflake Paving Stone",
+      "store_price": 0,
+      "resale_price": 15000,
+      "percent_profit": 0,
+      "rarity": "r92",
+      "imgURL": "https://images.neopets.com/items/gar_pav_snow4.gif"
+    },
+    {
+      "name": "Kougra Whiskers",
+      "store_price": 0,
+      "resale_price": 15000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/clo_elekougra_whiskers_basic.gif"
+    },
+    {
+      "name": "Burnt Dummy",
+      "store_price": 0,
+      "resale_price": 15300,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_burnt_dummy.gif"
+    },
+    {
+      "name": "Pirate Cannon",
+      "store_price": 0,
+      "resale_price": 16500,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/gar_pirate_cannon.gif"
+    },
+    {
+      "name": "Tiered Pond",
+      "store_price": 0,
+      "resale_price": 18000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/gar_pond_tiered.gif"
+    },
+    {
+      "name": "Tropical Flower Plant",
+      "store_price": 0,
+      "resale_price": 18200,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/gar_tropic_flower.gif"
+    },
+    {
+      "name": "Wheel of Misfortune Outdoor Play Set",
+      "store_price": 0,
+      "resale_price": 18500,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_wheelmisfortune.gif"
+    },
+    {
+      "name": "Autumn Planter",
+      "store_price": 0,
+      "resale_price": 19000,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/gar_pot_autumn.gif"
+    },
+    {
+      "name": "Roped Bridge",
+      "store_price": 0,
+      "resale_price": 19500,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/ga_roped_bridge.gif"
+    },
+    {
+      "name": "Royal Umbrella",
+      "store_price": 0,
+      "resale_price": 19700,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/gar_royalumbrella.gif"
+    },
+    {
+      "name": "Goldy Swinging Chair",
+      "store_price": 0,
+      "resale_price": 20000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/gar_goldy_swingchair.gif"
+    },
+    {
+      "name": "Jhudora Swing",
+      "store_price": 0,
+      "resale_price": 21000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/gar_jhudora_swing.gif"
+    },
+    {
+      "name": "Deluxe Garden Catapult",
+      "store_price": 0,
+      "resale_price": 23000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/gar_catapult_deluxe.gif"
+    },
+    {
+      "name": "Snow Grarrl",
+      "store_price": 0,
+      "resale_price": 23000,
+      "percent_profit": 0,
+      "rarity": "r94",
+      "imgURL": "https://images.neopets.com/items/gar_snowman_grarrl.gif"
+    },
+    {
+      "name": "Mutant Chimney",
+      "store_price": 0,
+      "resale_price": 24500,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_mutant_chimenea.gif"
+    },
+    {
+      "name": "Faerieland Tree House",
+      "store_price": 0,
+      "resale_price": 25000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/gar_treehouse_faerieland.gif"
+    },
+    {
+      "name": "Regal Bridge",
+      "store_price": 0,
+      "resale_price": 25000,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/ga_regalbridge.gif"
+    },
+    {
+      "name": "Carassa Gnome",
+      "store_price": 0,
+      "resale_price": 26000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/gar_carassa_gnome.gif"
+    },
+    {
+      "name": "Rainbow Anthurium",
+      "store_price": 0,
+      "resale_price": 26800,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/gar_rainbow_bush.gif"
+    },
+    {
+      "name": "Rainbow Bridge",
+      "store_price": 0,
+      "resale_price": 26800,
+      "percent_profit": 0,
+      "rarity": "r96",
+      "imgURL": "https://images.neopets.com/items/gar_bridge_rainbow.gif"
+    },
+    {
+      "name": "Gazebo",
+      "store_price": 0,
+      "resale_price": 29000,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/ga_gazebo.gif"
+    },
+    {
+      "name": "Mystery Island Tree House",
+      "store_price": 0,
+      "resale_price": 29400,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_treehouse_mysteryisland.gif"
+    },
+    {
+      "name": "Inflatable Squid",
+      "store_price": 0,
+      "resale_price": 34000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/gar_inflatable_squid.gif"
+    },
+    {
+      "name": "Elemental Kougra Fire Mane",
+      "store_price": 0,
+      "resale_price": 34300,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/clo_elementalkougra_mane_fire.gif"
+    },
+    {
+      "name": "Snow Bruce Gnome",
+      "store_price": 0,
+      "resale_price": 34900,
+      "percent_profit": 0,
+      "rarity": "r90",
+      "imgURL": "https://images.neopets.com/items/gar_gnome_snow2.gif"
+    },
+    {
+      "name": "Jelly River",
+      "store_price": 0,
+      "resale_price": 35900,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_jelly_river.gif"
+    },
+    {
+      "name": "Eye of Jhudora Fountain",
+      "store_price": 0,
+      "resale_price": 38000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_jhudora_fountain.gif"
+    },
+    {
+      "name": "Jelly Tree",
+      "store_price": 0,
+      "resale_price": 49000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_jelly_tree.gif"
+    },
+    {
+      "name": "Icy Bridge",
+      "store_price": 0,
+      "resale_price": 50000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_bridge_ice.gif"
+    },
+    {
+      "name": "Floating Cactus Flower",
+      "store_price": 0,
+      "resale_price": 55000,
+      "percent_profit": 0,
+      "rarity": "r100",
+      "imgURL": "https://images.neopets.com/items/floating_cactus.gif"
+    },
+    {
+      "name": "Nimmo Garden Lounge",
+      "store_price": 0,
+      "resale_price": 59500,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_nimmo_lounge.gif"
+    },
+    {
+      "name": "Rainbow Fruit Tree",
+      "store_price": 0,
+      "resale_price": 67000,
+      "percent_profit": 0,
+      "rarity": "r97",
+      "imgURL": "https://images.neopets.com/items/gar_rainbow_fruittree.gif"
+    },
+    {
+      "name": "Squid Tentacle",
+      "store_price": 0,
+      "resale_price": 80000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_squid_tentacle.gif"
+    },
+    {
+      "name": "Elemental Kougra Water Mane",
+      "store_price": 0,
+      "resale_price": 85500,
+      "percent_profit": 0,
+      "rarity": "r95",
+      "imgURL": "https://images.neopets.com/items/clo_elementalkougra_mane_water.gif"
+    },
+    {
+      "name": "Rainbow Garden Swing",
+      "store_price": 0,
+      "resale_price": 95000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_swing_rainbow.gif"
+    },
+    {
+      "name": "Bat Thing Gnome",
+      "store_price": 0,
+      "resale_price": 112000,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_gnome_darigan.gif"
+    },
+    {
+      "name": "Shoyru Statue",
+      "store_price": 0,
+      "resale_price": 126000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_statue_shoyru.gif"
+    },
+    {
+      "name": "Star Tree",
+      "store_price": 0,
+      "resale_price": 500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/star_tree.gif"
+    },
+    {
+      "name": "Disco Birdhouse",
+      "store_price": 0,
+      "resale_price": 780000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_birdhouse_disco.gif"
+    },
+    {
+      "name": "Jhudora Statue",
+      "store_price": 0,
+      "resale_price": 960000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_jhudora_statue.gif"
+    },
+    {
+      "name": "Faerie Birdhouse",
+      "store_price": 0,
+      "resale_price": 999999,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_birdhouse_faerie.gif"
+    },
+    {
+      "name": "White Wood Pergola",
+      "store_price": 0,
+      "resale_price": 1100000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_trellis_gigantic.gif"
+    },
+    {
+      "name": "Slimy Tree",
+      "store_price": 0,
+      "resale_price": 1300000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_treehall.gif"
+    },
+    {
+      "name": "Jeran Gnome",
+      "store_price": 0,
+      "resale_price": 1400000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_gnome_jeran.gif"
+    },
+    {
+      "name": "Twisting Vines",
+      "store_price": 0,
+      "resale_price": 1400000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_twistingvines.gif"
+    },
+    {
+      "name": "Jelly Garden Fountain",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_jelly_fountain.gif"
+    },
+    {
+      "name": "Scarescorchio",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_scarecrow_scorchio.gif"
+    },
+    {
+      "name": "Strange Bulb",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_strangebulb.gif"
+    },
+    {
+      "name": "Techo Statue",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_statue_techo.gif"
+    },
+    {
+      "name": "Tuskaninny Plant",
+      "store_price": 0,
+      "resale_price": 1500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/plant_tuskaninny.gif"
+    },
+    {
+      "name": "Asparagus Garden",
+      "store_price": 0,
+      "resale_price": 1800000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_garden_asparagus.gif"
+    },
+    {
+      "name": "Blumaroo Statue",
+      "store_price": 0,
+      "resale_price": 1800000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_statue_blumaroo.gif"
+    },
+    {
+      "name": "Bonsai Chia",
+      "store_price": 0,
+      "resale_price": 1800000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_bonsaichia.gif"
+    },
+    {
+      "name": "Chia Statue",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_statue_chia.gif"
+    },
+    {
+      "name": "Coconut Shy Outdoor Play Set",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_coconut_shy.gif"
+    },
+    {
+      "name": "Golden Garden Bench",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_bench_golden.gif"
+    },
+    {
+      "name": "Quiggle Statue",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_statue_quiggle.gif"
+    },
+    {
+      "name": "Volcanic Pond",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_pond_volcano.gif"
+    },
+    {
+      "name": "White Picket Fence",
+      "store_price": 0,
+      "resale_price": 2000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/ga_picket_fence.gif"
+    },
+    {
+      "name": "Jellybean Tree",
+      "store_price": 0,
+      "resale_price": 2500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_jellybean_tree.gif"
+    },
+    {
+      "name": "Mini Giant Jelly",
+      "store_price": 0,
+      "resale_price": 2500000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_mini_giantjelly.gif"
+    },
+    {
+      "name": "Lord Kass Gnome",
+      "store_price": 0,
+      "resale_price": 4000000,
+      "percent_profit": 0,
+      "rarity": "r99",
+      "imgURL": "https://images.neopets.com/items/gar_gnome_kass.gif"
+    },
+    {
+      "name": "Gnarled Stump",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_stumphall.gif"
+    },
+    {
+      "name": "Dr Sloth Pond",
+      "store_price": 0,
+      "resale_price": 0,
+      "percent_profit": 0,
+      "rarity": "r98",
+      "imgURL": "https://images.neopets.com/items/gar_sloth_pond.gif"
+    }
+  ]
+}
