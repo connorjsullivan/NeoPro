@@ -145,44 +145,44 @@
                 overlay.style.fontFamily = 'Arial, sans-serif';
                 overlay.style.transition = 'opacity 0.3s ease-in-out';
         
-                // Add a close button
-                const closeButton = document.createElement('button');
-                closeButton.textContent = '×';
-                closeButton.style.position = 'absolute';
-                closeButton.style.top = '10px';
-                closeButton.style.right = '10px';
-                closeButton.style.border = 'none';
-                closeButton.style.background = 'transparent';
-                closeButton.style.fontSize = '24px';
-                closeButton.style.cursor = 'pointer';
-                closeButton.style.color = '#888';
-                closeButton.style.transition = 'color 0.3s ease';
-        
-                // Close button hover effect
-                closeButton.addEventListener('mouseenter', () => {
-                    closeButton.style.color = '#555';
-                });
-        
-                closeButton.addEventListener('mouseleave', () => {
-                    closeButton.style.color = '#888';
-                });
-        
-                // Close functionality
-                closeButton.addEventListener('click', () => {
-                    overlay.style.opacity = '0';
-                    setTimeout(() => {
-                        overlay.remove();
-                    }, 300); // Matches the transition time
-                });
-        
-                overlay.appendChild(closeButton);
+                // Add the overlay to the document
                 document.body.appendChild(overlay);
             }
         
             // Clear existing content (except the close button)
             overlay.innerHTML = '';
-            const closeButton = overlay.querySelector('button');
-            if (closeButton) overlay.appendChild(closeButton);
+        
+            // Add a close button
+            const closeButton = document.createElement('button');
+            closeButton.textContent = '×';
+            closeButton.style.position = 'absolute';
+            closeButton.style.top = '10px';
+            closeButton.style.right = '10px';
+            closeButton.style.border = 'none';
+            closeButton.style.background = 'transparent';
+            closeButton.style.fontSize = '24px';
+            closeButton.style.cursor = 'pointer';
+            closeButton.style.color = '#888';
+            closeButton.style.transition = 'color 0.3s ease';
+        
+            // Close button hover effect
+            closeButton.addEventListener('mouseenter', () => {
+                closeButton.style.color = '#555';
+            });
+        
+            closeButton.addEventListener('mouseleave', () => {
+                closeButton.style.color = '#888';
+            });
+        
+            // Close functionality
+            closeButton.addEventListener('click', () => {
+                overlay.style.opacity = '0';
+                setTimeout(() => {
+                    overlay.remove();
+                }, 300); // Matches the transition time
+            });
+        
+            overlay.appendChild(closeButton);
         
             // Check if items array is empty and display a message if true
             if (items.length === 0) {
@@ -191,6 +191,7 @@
                 noItemsMessage.style.textAlign = 'center';
                 noItemsMessage.style.color = '#666';
                 noItemsMessage.style.fontSize = '18px';
+                noItemsMessage.style.marginTop = '50px';
                 overlay.appendChild(noItemsMessage);
                 return;
             }
