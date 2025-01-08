@@ -4,7 +4,10 @@
 
 // NTD:
     // 1. Let Prices reference another file / live database
+    // Need to add Tampermonkey script to NeoPro Repository (make a downloader?)
+    // Add supported shops and rarities to readme
     // Add a Config File
+
         // Rarities
         // Customization Options
         // Minimum Profits to appear
@@ -173,15 +176,13 @@
                 });
         
                 overlay.appendChild(closeButton);
-        
                 document.body.appendChild(overlay);
             }
         
-            // Clear existing content
+            // Clear existing content (except the close button)
             overlay.innerHTML = '';
-        
-            // Re-append the close button
-            overlay.appendChild(closeButton);
+            const closeButton = overlay.querySelector('button');
+            if (closeButton) overlay.appendChild(closeButton);
         
             // Check if items array is empty and display a message if true
             if (items.length === 0) {
@@ -259,6 +260,7 @@
         
             overlay.appendChild(itemList);
         }
+        
     
         function createLoadButton() {
             const loadButton = document.createElement('button');
