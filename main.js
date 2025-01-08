@@ -7,6 +7,7 @@
     // Need to add Tampermonkey script to NeoPro Repository (make a downloader?)
     // Add supported shops and rarities to readme
     // Move load buttons and other logic out of this file
+    // Faster / more efficient process for updating pricing.json
     // Add a Config File
 
         // Rarities
@@ -298,15 +299,26 @@
                 highlightItemsByRarity();
             });
         
-            // Find the "Shop Inventory" header and insert the button
+            // Create a container to center the button and add spacing
+            const buttonContainer = document.createElement('div');
+            buttonContainer.style.display = 'flex';
+            buttonContainer.style.justifyContent = 'center';
+            buttonContainer.style.alignItems = 'center';
+            buttonContainer.style.marginTop = '20px'; // Add spacing above the button
+            buttonContainer.style.marginBottom = '20px'; // Add spacing below the button
+        
+            buttonContainer.appendChild(loadButton);
+        
+            // Find the "Shop Inventory" header and insert the container
             const shopHeader = document.querySelector('h2');
             if (shopHeader && shopHeader.textContent.includes('Shop Inventory')) {
-                shopHeader.insertAdjacentElement('afterend', loadButton); // Place the button after the header
+                shopHeader.insertAdjacentElement('afterend', buttonContainer); // Place the container after the header
             } else {
                 console.error("Shop Inventory header not found");
-                document.body.appendChild(loadButton); // Fallback: append to body
+                document.body.appendChild(buttonContainer); // Fallback: append to body
             }
         }
+        
         
         async function initNeoPro() {
             Prices = await fetchPrices(); // Load prices
