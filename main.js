@@ -12,6 +12,8 @@
     // 7. Add fallback handling for empty `Prices` in `highlightItemsByRarity`
     // 8. Improve responsiveness of the `neoProOverlay` with better CSS
     // 9. Add optional chaining (`?.`) for missing attributes in `pullData`
+    // 10. Actually highlight the items in the shop for buying
+    // 11. MAke it look less janky
 
     console.log("main.js loaded successfully!");
 
@@ -169,28 +171,41 @@
             const loadButton = document.createElement('button');
             loadButton.textContent = "Load NeoPro";
             loadButton.style.position = 'fixed';
-            loadButton.style.top = '10px';
-            loadButton.style.left = '10px';
+            loadButton.style.top = '20px';
+            loadButton.style.left = '20px';
             loadButton.style.zIndex = '1500';
-            loadButton.style.padding = '10px 20px';
-            loadButton.style.fontSize = '16px';
+            loadButton.style.padding = '12px 24px';
+            loadButton.style.fontSize = '18px';
             loadButton.style.fontFamily = 'Arial, sans-serif';
-            loadButton.style.borderRadius = '5px';
+            loadButton.style.borderRadius = '8px';
             loadButton.style.cursor = 'pointer';
-    
-            loadButton.addEventListener('click', async function() {
+            loadButton.style.backgroundColor = '#4CAF50'; // Green background
+            loadButton.style.color = 'white'; // White text
+            loadButton.style.border = 'none'; // Remove border
+            loadButton.style.boxShadow = '0px 4px 6px rgba(0, 0, 0, 0.1)'; // Subtle shadow
+            loadButton.style.transition = 'all 0.3s ease'; // Smooth hover effect
+        
+            // Add hover effects
+            loadButton.addEventListener('mouseenter', function () {
+                loadButton.style.backgroundColor = '#45a049'; // Slightly darker green
+                loadButton.style.transform = 'scale(1.05)'; // Slight zoom
+            });
+        
+            loadButton.addEventListener('mouseleave', function () {
+                loadButton.style.backgroundColor = '#4CAF50'; // Back to original color
+                loadButton.style.transform = 'scale(1)'; // Reset zoom
+            });
+        
+            // Add click functionality
+            loadButton.addEventListener('click', async function () {
                 const items = pullData();
                 const percentedItems = calculateProfitPercentage(items);
                 const sortedItems = sortdict(percentedItems);
                 displayProcessedItems(sortedItems);
                 highlightItemsByRarity();
             });
-    
+        
             document.body.appendChild(loadButton);
-        }
-        async function initNeoPro() {
-            Prices = await fetchPrices(); // Load prices
-            createLoadButton(); // Create the "Load NeoPro" button
         }
 
         initNeoPro();
