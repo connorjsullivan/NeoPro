@@ -13,7 +13,7 @@
     // 8. Improve responsiveness of the `neoProOverlay` with better CSS
     // 9. Add optional chaining (`?.`) for missing attributes in `pullData`
     // 10. Actually highlight the items in the shop for buying
-    // 11. MAke it look less janky
+    // 11. MAke it look less janky 
 
     console.log("main.js loaded successfully!");
 
@@ -207,7 +207,7 @@
         
             document.body.appendChild(loadButton);
         }
-
+        
         async function initNeoPro() {
             Prices = await fetchPrices(); // Load prices
             createLoadButton(); // Create the "Load NeoPro" button
