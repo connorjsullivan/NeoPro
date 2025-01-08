@@ -13,6 +13,8 @@
     // 8. Improve responsiveness of the `neoProOverlay` with better CSS
     // 9. Add optional chaining (`?.`) for missing attributes in `pullData`
 
+    console.log("main.js loaded successfully!");
+
 
     async function fetchPrices() {
         const url = 'https://raw.githubusercontent.com/connorjsullivan/NeoPro/main/Prices.json';
