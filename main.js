@@ -212,8 +212,13 @@
             Prices = await fetchPrices(); // Load prices
             createLoadButton(); // Create the "Load NeoPro" button
         }
-
+        
+        // Attach to the global window object
         window.initNeoPro = initNeoPro;
-
+        
+        // Immediately invoke the function
         initNeoPro();
+
+        console.log("Global initNeoPro:", window.initNeoPro);
+
     })();
