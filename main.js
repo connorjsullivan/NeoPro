@@ -213,5 +213,7 @@
             createLoadButton(); // Create the "Load NeoPro" button
         }
 
+        window.initNeoPro = initNeoPro;
+
         initNeoPro();
     })();
