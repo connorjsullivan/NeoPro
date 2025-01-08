@@ -208,5 +208,10 @@
             document.body.appendChild(loadButton);
         }
 
+        async function initNeoPro() {
+            Prices = await fetchPrices(); // Load prices
+            createLoadButton(); // Create the "Load NeoPro" button
+        }
+
         initNeoPro();
     })();
